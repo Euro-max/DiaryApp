@@ -1,0 +1,1 @@
+A DiaryApp where I used C# ASP.NET for the backend, where the user can use CRUD operations and save to a database using Microsoft SQL Server, MVC architectural pattern,HTML,CSS,and JS for client side form validation and layout views
